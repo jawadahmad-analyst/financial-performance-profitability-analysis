@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Power BI temp files
+*.pbi_backup
+.pbi/
+*.tmp
+
+# Raw source data (large / licensed) – keep out of the repo
+data/raw/
