@@ -12,7 +12,7 @@ An end-to-end finance analytics project: raw financial statements of **4,668 lis
 ![Overview](dashboard_overview.png)
 
 **Profitability Analysis**
-![Profitability](images/dashboard_profitability_analysis.png)
+![Profitability](dashboard_profitability_analysis.png)
 
 ## Key findings
 
