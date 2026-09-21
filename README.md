@@ -9,7 +9,7 @@ An end-to-end finance analytics project: raw financial statements of **4,668 lis
 ## Dashboard preview
 
 **Overview – Financial Health Executive Summary**
-![Overview](images/dashboard_overview.png)
+![Overview](dashboard_overview.png)
 
 **Profitability Analysis**
 ![Profitability](images/dashboard_profitability_analysis.png)
@@ -89,4 +89,4 @@ Source: _add the dataset source and download date here._
 ## Author
 
 **Jawad Ahmad** – BBA Finance graduate
-[LinkedIn](https://www.linkedin.com/in/your-profile-name)
+[LinkedIn](https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BgFflSYtfQpiV6E1AKFgKqg%3D%3D)
